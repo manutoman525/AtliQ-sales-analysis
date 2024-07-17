@@ -6,7 +6,7 @@ AtliQ is a company which sells electronic gadgets such as keyboards , mouses, pe
 
 ## Project Overview
 
-This project involves analyzing market sales data to generate insights into profit and loss statements, weekly performances of platforms, and overall performance of various properties. The analysis includes data cleaning, modification of date formats, and addition of fiscal year and quarter columns.
+This project involves analyzing market sales data to generate insights into profit and loss statements, weekly performances of platforms, and overall performance of various properties,customer performances . The analysis includes data cleaning, modification of date formats, and addition of fiscal year and quarter columns.
 
 ## Data Cleaning and Preparation
 
