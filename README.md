@@ -1,8 +1,7 @@
 # AtliQ-sales-analysis
 AtliQ is a company which sells electronic gadgets such as keyboards , mouses, personal computers etc , to increase their sales , and to know about product performances , to know about thier profits and losses they assigned this project to me , lets dive into the findings and insights that i have collected.
-
-
-AtliQ also has properties like AtliQ 
+AtliQ also has properties like AtliQ Blu , AtliQ Exotica, AtliQ Grands , AtliQ Seasons, AtliQ City . We have to analyse thier performances based on the revenue generated.
+---
 # Market Sales Analysis
 
 ## Project Overview
